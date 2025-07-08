@@ -1,5 +1,7 @@
 # Ingex Validator Dashboard
 
+![Dasboard image](/src/assets/img/db.png)
+
 ## Overview
 
 The validator dashboard shows the current status of events in the attestation phase of the Ingex zk-oracle. It displays the proposer outcome, the bond subject to slashing and the attestation progress.
